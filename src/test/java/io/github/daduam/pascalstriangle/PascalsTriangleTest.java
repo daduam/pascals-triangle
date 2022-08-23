@@ -5,9 +5,9 @@ import static org.junit.Assert.assertTrue;
 import org.junit.Test;
 
 /**
- * Unit test for simple PascalsTriangleTester.
+ * Unit test for simple PascalsTriangle.
  */
-public class PascalsTriangleTesterTest {
+public class PascalsTriangleTest {
     /**
      * Rigorous Test :-)
      */
